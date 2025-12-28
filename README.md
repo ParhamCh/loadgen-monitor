@@ -9,5 +9,5 @@ A minimal ANSI TUI module (MVU engine) with:
 ## RUN
 ```bash
 python3 app.py
-```bash
+```
 
